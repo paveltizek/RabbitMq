@@ -17,8 +17,8 @@
 	],
 	"require": {
 		"php": ">=5.4",
-		"nette/di": "~2.4@dev",
-		"nette/utils": "~2.4@dev",
+		"nette/di": "~2.4@dev || 3.0.0",
+		"nette/utils": "~2.4@dev || 3.0.0",
 
 		"php-amqplib/php-amqplib": "~2.6.2"
 	},
